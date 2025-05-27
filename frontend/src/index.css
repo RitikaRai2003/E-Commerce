@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-family: "poppins";
+  -webkit-font-smothing: antialiased;
+  -moz-osx-font-smothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier new monospace";
+}
